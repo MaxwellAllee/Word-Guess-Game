@@ -1,0 +1,31 @@
+body{
+    background-image: url(../images/Old_Paper.jpg);
+    color: #4D2904;
+    font-size: 40px;
+    font-family:'Smokum', cursive;
+
+}
+
+.head{
+    text-align: center;
+}
+.myMargin{
+    margin-top: 20px;
+}
+hr{
+    background-color: #4D2904;
+    border: none;
+    height: 10px;
+}
+.container-fluid{
+    margin: 0 auto;
+    width: 90%;
+}
+.photoChar{
+    text-align: center;
+}
+.photoSize{
+    width: 500px;
+    height: 400px;
+    margin-top: 60px;
+} 
